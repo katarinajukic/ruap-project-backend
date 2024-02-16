@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ruap-lung-main/ruap/ruap.iml" filepath="$PROJECT_DIR$/ruap-lung-main/ruap/ruap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ruap-lung-main.iml" filepath="$PROJECT_DIR$/.idea/ruap-lung-main.iml" />
+    </modules>
+  </component>
+</project>
